@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtaIpek
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on app projects
 - 📫 How to reach me: ataipek01@gmail.com
 
 <!---
