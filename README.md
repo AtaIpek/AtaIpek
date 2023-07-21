@@ -1,5 +1,5 @@
 - Hi, I’m @AtaIpek
-- I’m interested in Cyber Security and Mobile App development
+- I’m interested in Cybersecurity and Mobile App development
 -  I’m currently learning Kotlin | I studied Java and Python
 -  I’m looking to collaborate on projects
 -  How to reach me: ataipek01@gmail.com
